@@ -1,12 +1,14 @@
 # DropView
+![Downloads](https://img.shields.io/github/downloads/JAY-hub-design/dropview/total?label=Downloads&color=blue)
+
 A fast file drag and drop preview build with Electron.
 
-# DropView is a lightweight, cross-platform desktop application that let's you drag and drop files to instantly preview them. 
+DropView is a lightweight, cross-platform desktop application that let's you drag and drop files to instantly preview them. 
 It's designed to be fast, simple, and useful - no clutter, no extra steps. 
 
 DropView aims to become a universal viewer for common file types, giving users a quick way to inspect content without opening heavy applications. 
 
-# Features. 
+## Features. 
 Drag-and-drop file preview
 Image preview (PNG, JPG, GIF, BMP, WebP) 
 Text preview (TXT, MD, JSON, JS, HTML, CSS, ect.) 
@@ -15,7 +17,13 @@ File Metadata display
 Clean, minimal UI
 Cross-platform support (Windows, Linux, macOS via Github Actions)
 
-# Installation. 
+## Downloads
+Get the latest version of DropView:
+
+- [Linux AppImage](https://github.com/JAY-hub-design/dropview/releases/latest)
+- [Linux DEB Package](https://github.com/JAY-hub-design/dropview/releases/latest)
+
+## Installation. 
 DropView installers will be avaliable on the Releases page once first build is published.
 
 Planned release formats:
@@ -23,23 +31,23 @@ Windows:.exe
 Linux:.AppImage,.deb
 macOS:.dmg
 
-# Development Setup. 
+## Development Setup. 
 
 Clone the repository:
 git clone https://github.com/JAY-hub-design/DropView.git
 cd DropView
 
-# Install dependencies. 
+## Install dependencies. 
 npm install
 
-# Run the app in development mode. 
+## Run the app in development mode. 
 npm start
 
-# Build installers. 
+## Build installers. 
 (after electron-builder is configured):
 npm run build
 
-# Project structure. 
+## Project structure. 
 DropView/
 │
 ├── src/
