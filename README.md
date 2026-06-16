@@ -1,5 +1,5 @@
 # DropView
-![Downloads](https://img.shields.io/github/downloads/JAY-hub-design/dropview/total?label=Downloads&color=blue)
+![Github Latest Release Downloads](https://img.shields.io/github/downloads/JAY-hub-design/DropView/latest/total?style=for-the-badge&color=238636&label=Latest%20Release)
 
 A fast file drag and drop preview build with Electron.
 
